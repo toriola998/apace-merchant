@@ -1,4 +1,13 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-
-createApp(App).mount('#app')
+import router from './router'
+import '../src/assets/bootstrap/bootstrap.min.css'
+import '../src/assets/fontawesome/css/all.min.css'
+import '../src/assets/css/custom.css'
+import '../src/assets/js/jquery.min.js'
+// import '../src/assets/js/bootstrap.min.js'
+// import '../src/assets/js/chart.js'
+// import '../src/assets/js/slim.min.js'
+// import '../src/assets/js/bootstra.min.js'
+import '../src/assets/js/popper.min.js'
+createApp(App).use(router).mount('#app')
