@@ -235,170 +235,167 @@
                                     </div>
                                 </div>
 
-                            <hr class="mt-0 mb-0">
-                            <div class="row mt-2 mb-2">
-                                <div class="col-6 col-md-6 col-lg-6">
-                                <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                                <span class="text-p f-12 mr-3">Office supply co.</span>
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Office supply co.</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-8">N</span> 132,800,000 <span class="f-8">.76</span>
+                                    </p>
+                                    </div>
                                 </div>
-                                <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                                <p class="text-p f-12 mr-3 mb-0">
-                                    <span class="f-8">N</span> 132,800,000 <span class="f-8">.76</span>
-                                </p>
+
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Food-to-go</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-8">N</span> 125,750,000 <span class="f-8">.76</span>
+                                    </p>
+                                    </div>
+                                </div>
+
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Gadget house</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-8">N</span> 100,004,000 <span class="f-8">.76</span>
+                                    </p>
+                                    </div>
                                 </div>
                             </div>
+                        </div>
 
-                            <hr class="mt-0 mb-0">
-                            <div class="row mt-2 mb-2">
-                                <div class="col-6 col-md-6 col-lg-6">
-                                <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                                <span class="text-p f-12 mr-3">Food-to-go</span>
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <div class="div-6">
+                                <div class="row">
+                                    <div class="col-4 col-md-4 col-lg-5">
+                                        <h6 class="text-p ml-1">Most transactions</h6>
+                                    </div>
+                                    <div class="col-4 col-md-4 col-lg-3 px-0">
+                                        <p class="text-p f-12">Last 7 days</p>
+                                    </div>
+                                    <div class="col-4 col-md-4 col-lg-4">
+                                        <button class="btn btn-outline-dark f-12 mr-1" style="float: right;">
+                                            See more
+                                        </button>
+                                    </div>
                                 </div>
-                                <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                                <p class="text-p f-12 mr-3 mb-0">
-                                    <span class="f-8">N</span> 125,750,000 <span class="f-8">.76</span>
-                                </p>
+
+                                <div class="row mt-3 mb-0">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                        <p class="text-p ml-1 f-14 mb-1">Merchants</p>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                        <p class="color-white f-12 mr-3 mb-1"># of transactions</p>
+                                    </div>
+                                </div>
+
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Computer village</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-12">2011</span>
+                                    </p>
+                                    </div>
+                                </div>
+
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Tech space</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-12">1900</span>
+                                    </p>
+                                    </div>
+                                </div>
+
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Decor</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-12">1876</span>
+                                    </p>
+                                    </div>
+                                </div>
+
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Home buddy</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-12">912</span>
+                                    </p>
+                                    </div>
+                                </div>
+
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Garment spot</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-12">876</span>
+                                    </p>
+                                    </div>
+                                </div>
+
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Flames</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-12">800</span>
+                                    </p>
+                                    </div>
+                                </div>
+
+                                <hr class="mt-0 mb-0">
+                                <div class="row mt-2 mb-2">
+                                    <div class="col-6 col-md-6 col-lg-6">
+                                    <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
+                                    <span class="text-p f-12 mr-3">Baggu</span>
+                                    </div>
+                                    <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
+                                    <p class="text-p f-12 mr-3 mb-0">
+                                        <span class="f-12">782</span>
+                                    </p>
+                                    </div>
                                 </div>
                             </div>
-
-                            <hr class="mt-0 mb-0">
-                            <div class="row mt-2 mb-2">
-                                <div class="col-6 col-md-6 col-lg-6">
-                                <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                                <span class="text-p f-12 mr-3">Gadget house</span>
-                                </div>
-                                <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                                <p class="text-p f-12 mr-3 mb-0">
-                                    <span class="f-8">N</span> 100,004,000 <span class="f-8">.76</span>
-                                </p>
-                                </div>
-                            </div>
-
-                            </div>
                         </div>
-
-
-                    <div class="col-12 col-md-6 col-lg-6">
-                        <div class="div-6">
-                        <div class="row">
-                            <div class="col-4 col-md-4 col-lg-5">
-                            <h6 class="text-p ml-1">Most transactions</h6>
-                            </div>
-                            <div class="col-4 col-md-4 col-lg-3 px-0">
-                            <p class="text-p f-12">Last 7 days</p>
-                            </div>
-                            <div class="col-4 col-md-4 col-lg-4">
-                            <button class="btn btn-outline-dark f-12 mr-1" style="float: right;">
-                                See more
-                            </button>
-                            </div>
-                        </div>
-
-
-                        <div class="row mt-3 mb-0">
-                            <div class="col-6 col-md-6 col-lg-6">
-                            <p class="text-p ml-1 f-14 mb-1">Merchants</p>
-                            </div>
-                            <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                            <p class="color-white f-12 mr-3 mb-1"># of transactions</p>
-                            </div>
-                        </div>
-
-                        <hr class="mt-0 mb-0">
-                        <div class="row mt-2 mb-2">
-                            <div class="col-6 col-md-6 col-lg-6">
-                            <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                            <span class="text-p f-12 mr-3">Computer village</span>
-                            </div>
-                            <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                            <p class="text-p f-12 mr-3 mb-0">
-                                <span class="f-12">2011</span>
-                            </p>
-                            </div>
-                        </div>
-
-                        <hr class="mt-0 mb-0">
-                        <div class="row mt-2 mb-2">
-                            <div class="col-6 col-md-6 col-lg-6">
-                            <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                            <span class="text-p f-12 mr-3">Tech space</span>
-                            </div>
-                            <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                            <p class="text-p f-12 mr-3 mb-0">
-                                <span class="f-12">1900</span>
-                            </p>
-                            </div>
-                        </div>
-
-                        <hr class="mt-0 mb-0">
-                        <div class="row mt-2 mb-2">
-                            <div class="col-6 col-md-6 col-lg-6">
-                            <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                            <span class="text-p f-12 mr-3">Decor</span>
-                            </div>
-                            <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                            <p class="text-p f-12 mr-3 mb-0">
-                                <span class="f-12">1876</span>
-                            </p>
-                            </div>
-                        </div>
-
-                        <hr class="mt-0 mb-0">
-                        <div class="row mt-2 mb-2">
-                            <div class="col-6 col-md-6 col-lg-6">
-                            <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                            <span class="text-p f-12 mr-3">Home buddy</span>
-                            </div>
-                            <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                            <p class="text-p f-12 mr-3 mb-0">
-                                <span class="f-12">912</span>
-                            </p>
-                            </div>
-                        </div>
-
-                        <hr class="mt-0 mb-0">
-                        <div class="row mt-2 mb-2">
-                            <div class="col-6 col-md-6 col-lg-6">
-                            <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                            <span class="text-p f-12 mr-3">Garment spot</span>
-                            </div>
-                            <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                            <p class="text-p f-12 mr-3 mb-0">
-                                <span class="f-12">876</span>
-                            </p>
-                            </div>
-                        </div>
-
-                        <hr class="mt-0 mb-0">
-                        <div class="row mt-2 mb-2">
-                            <div class="col-6 col-md-6 col-lg-6">
-                            <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                            <span class="text-p f-12 mr-3">Flames</span>
-                            </div>
-                            <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                            <p class="text-p f-12 mr-3 mb-0">
-                                <span class="f-12">800</span>
-                            </p>
-                            </div>
-                        </div>
-
-                        <hr class="mt-0 mb-0">
-                        <div class="row mt-2 mb-2">
-                            <div class="col-6 col-md-6 col-lg-6">
-                            <img src="@/assets/img/imgt.png" style="width: 30px;" alt="no image" class="mr-1 ml-1">
-                            <span class="text-p f-12 mr-3">Baggu</span>
-                            </div>
-                            <div class="col-6 col-md-6 col-lg-6 px-0 text-end">
-                            <p class="text-p f-12 mr-3 mb-0">
-                                <span class="f-12">782</span>
-                            </p>
-                            </div>
-                        </div>
-
-                        </div>
-                    </div>
                     </div>
                 </div>
+                
                 <div style="margin-top: 50px;overflow-y: hidden;">
                     <p style="color: black;">ok</p>
                 </div>
